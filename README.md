@@ -135,9 +135,9 @@ On detecting the face, the attendance is updated automatically in MySQL database
 
 ## Resources Used
 
-* Understanding face image embeddings through Facenet model:[www.paperswithcode.com](https://paperswithcode.com/paper/facenet-a-unified-embedding-for-face)
+* Understanding face image embeddings through Facenet model: [www.paperswithcode.com](https://paperswithcode.com/paper/facenet-a-unified-embedding-for-face)
 * Facial Recognition Method using: [www.towardsdatascience.com](https://towardsdatascience.com/face-recognition-for-beginners-a7a9bd5eb5c2)
-* [medium.com](https://medium.com/)
+* Understanding Dlib and its installation in Windows [www.medium.com](https://medium.com/analytics-vidhya/how-to-install-dlib-library-for-python-in-windows-10-57348ba1117f)
 * [machinelearningmastery.com](https://machinelearningmastery.com/)
 
 <!--MARKDOWN LINKS-->
