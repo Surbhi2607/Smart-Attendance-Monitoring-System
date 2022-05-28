@@ -86,6 +86,10 @@ SCRUM is a subset of Agile, a framework for developing software. SCRUM takes adv
 ## Getting Started
 To install and run the project on your local system, following are the requirements:
 ### Installation
+* Install all the files and folders from the github repository.
+* Open the folders in your Python IDE by creating an new project. Set the version of python to 3.6 while creating the environment.
+* Open MySQL workbench and open provided SQL query file named SmartAttendance_DBScript.sql to create required database schema and tables.
+* Modify DB_conn.txt file available in the main\src folder and main\src\predictor to update MySQL connectionm details like username, host and password.
 
 ### Prerequisites
  In your local IDE,make sure to install the required dependencies(requirements.txt) via terminal
