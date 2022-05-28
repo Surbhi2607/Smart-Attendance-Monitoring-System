@@ -1,0 +1,27 @@
+# Running the application
+Step 1 : Install all the files and folders from the github repository
+
+Step 2 : Open the folders in your Python IDE by creating an new project.
+	 Set the version of python to 3.6 while creating the environment	
+Step 3 : In the terminal of your IDE, run the following commands
+		  pip install -r requirements.txt
+	 To install the deep learning framework-MXnet
+		  conda install -c anaconda mxnet
+	 To install dlib
+		  conda install -c conda-forge dlib
+	 Uninstall all versions of numpy
+		  uninstall numpy
+	 Install numpy version 1.16.1
+		  pip install numpy==1.16.1
+	 To connect python with MySQL
+		  pip install mysql-connector-python
+	 To get real-time datetime
+		  pip install datetime
+Step 4 : Open MySQL workbench and create database AttendanceMaster and table Attendance inside AttendanceMaster
+
+Step 5 : To form the connection between python and MySQL, in the file DB_conn present inside the src folder and src\predictor, change the user and password.
+Step 6 : Now open app.py from src folder and run
+
+     
+
+

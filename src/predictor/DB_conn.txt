@@ -1,0 +1,6 @@
+[connection_details]
+host = 127.0.0.1
+database = AttendanceMaster
+user = root
+password = abc@123
+port  = 3306
