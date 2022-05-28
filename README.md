@@ -138,7 +138,8 @@ On detecting the face, the attendance is updated automatically in MySQL database
 * Understanding face image embeddings through Facenet model: [www.paperswithcode.com](https://paperswithcode.com/paper/facenet-a-unified-embedding-for-face)
 * Facial Recognition Method using: [www.towardsdatascience.com](https://towardsdatascience.com/face-recognition-for-beginners-a7a9bd5eb5c2)
 * Understanding Dlib and its installation in Windows [www.medium.com](https://medium.com/analytics-vidhya/how-to-install-dlib-library-for-python-in-windows-10-57348ba1117f)
-* [machinelearningmastery.com](https://machinelearningmastery.com/)
+* Face Detection with Deep Learning: [www.machinelearningmastery.com](https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/)
+* Connecting mysql databases through python: [www.dev.mysql.com](https://dev.mysql.com/doc/connector-python/en/connector-python-example-connecting.html)
 
 <!--MARKDOWN LINKS-->
 [programming-language-shield]: https://img.shields.io/badge/Programming%20Language-Python%203.6-blue
