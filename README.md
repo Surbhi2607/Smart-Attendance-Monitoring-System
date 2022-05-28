@@ -136,7 +136,7 @@ On detecting the face, the attendance is updated automatically in MySQL database
 ## Resources Used
 
 * [paperswithcode.com](https://paperswithcode.com/)
-* Facial Recognition Method using: [Towardsdatascience.com](https://towardsdatascience.com/face-recognition-for-beginners-a7a9bd5eb5c2)
+* Facial Recognition Method using: [www.towardsdatascience.com](https://towardsdatascience.com/face-recognition-for-beginners-a7a9bd5eb5c2)
 * [medium.com](https://medium.com/)
 * [machinelearningmastery.com](https://machinelearningmastery.com/)
 
