@@ -125,6 +125,7 @@ pip install datetime
 ## Navigating Through The App
 ### Register
 Register in the application by filling your details.
+<img src="Detection Snapshots/Registration.png" alt="new registration" width="700"/>
 ### Taking Images
 Click on the Take Images button and a grant the application access to webcam. A new window opens and 50 images of the user are captured automatically.
 ### Train the model
