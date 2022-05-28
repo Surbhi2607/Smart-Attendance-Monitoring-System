@@ -125,29 +125,36 @@ pip install datetime
 ## Navigating Through The App
 ### Register
 Register in the application by filling your details.
+
 <img src="Detection Snapshots/Registration.png" alt="new registration" width="700"/>
 
 ### Taking Images
 Click on the Take Images button and a grant the application access to webcam. A new window opens and 50 images of the user are captured automatically.
+
 <img src="Detection Snapshots/Taking Image.png" alt="taking image" width="700"/>
 
 Notification to confirm completion of 50 random image captures
+
 <img src="Detection Snapshots/Notification.png" alt="taking image" width="700"/>
 
 ### Train the model
 After the notification bar shows that 50 images have been captured, click on the Train Images button. The model gets trained using the captured images.
+
 <img src="Detection Snapshots/Training Completion.png" alt="training" width="700"/>
 
 ### Login
 After completing the registration process, click on Login. As soon as you click on the Login button a new window opens, where you get the option to predict or to exit.
-<img src="Detection Snapshots/login.png" alt="login" width="700"/>
+
+<img src="Detection Snapshots/Login.png" alt="login" width="700"/>
 
 ### Predict
 After clicking  on predict, a new window opens and a bounding box comes around the user's face along with their name.
+
 <img src="Detection Snapshots/Predict.png" alt="predict" width="700"/>
 
 ### Attendance in database
 On detecting the face, the attendance is updated automatically in MySQL database along with the date and time.
+
 <img src="Detection Snapshots/Attendance.png" alt="attendance" width="700"/>
 
 <!-- ACKNOWLEDGEMENTS -->
