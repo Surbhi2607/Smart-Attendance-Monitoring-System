@@ -78,9 +78,9 @@ SCRUM is a subset of Agile, a framework for developing software. SCRUM takes adv
 
 * Sprint 1: Requirement Gathering, Tech Stack Finalization, Project IDE Setup, dependencies & configuration settings -Researching across various websites and sources like paperswithcode.com, medium.com, towardsdatascience.com, machinelearningmastery.com. Setting up and configuring IDE: pycharm. Reading about various deep learning frameworks like MXnet, YOLO, Resnet, Facenet etc., face detection algorithms like MTCNN, Haarcascades, RetinaFace and face recognition algorithms like Arcface, FaceNet and OpenFace. 
 
-* Sprint 2: Software development and debugging - By assessing the performance across various models to be used for face recognition algorithm along with the provided datasets, I finalized the model, deep learning framework and image processing framework. Started the development of Tkinter GUI to record student information & collect training data using live camera feed. Image Processing, model training and saving weights. Encountered occasional bugs which I debugged timely.
+* Sprint 2: Algorithm development and debugging - By assessing the performance across various models to be used for face recognition algorithm along with the provided datasets, I finalized the model, deep learning framework and image processing framework. Started the development of Tkinter GUI to record student information & collect training data using live camera feed. Image Processing, model training and saving weights. Encountered occasional bugs which I debugged timely.
 
-* Sprint 3: Testing and debugging - Processing test data from live camera feed, image processing, embedding comparisons, loading recognition model from pickled files and predicting the faces. Built the MySQL database to store user information and update the attendance as soon as the face is recognized.
+* Sprint 3: Testing and performance monitoring - Processing test data from live camera feed, image processing, embedding comparisons, loading recognition model from pickled files and predicting the faces. Built the MySQL database to store user information and update the attendance as soon as the face is recognized.
 
 <!-- INSTALLATIONS -->
 
